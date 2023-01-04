@@ -90,5 +90,4 @@ int main(int argc, char const** argv)
         window.display();
     }
 
-    return EXIT_SUCCESS;
 }

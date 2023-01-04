@@ -277,7 +277,6 @@ int main()
         threads.pop_back();
     }
 
-    return EXIT_SUCCESS;
 }
 
 

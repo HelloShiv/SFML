@@ -92,5 +92,4 @@ int main(int, char const**)
         window.display();
     }
 
-    return EXIT_SUCCESS;
 }

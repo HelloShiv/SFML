@@ -2662,5 +2662,4 @@ int main()
 
     example.run();
 
-    return EXIT_SUCCESS;
 }

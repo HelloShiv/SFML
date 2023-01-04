@@ -55,5 +55,4 @@ int main()
     std::cin.ignore(10000, '\n');
     std::cin.ignore(10000, '\n');
 
-    return EXIT_SUCCESS;
 }
